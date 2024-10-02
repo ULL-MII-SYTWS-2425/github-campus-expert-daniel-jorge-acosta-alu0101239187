@@ -1,10 +1,20 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16111574)
-## GitHub Campus Expert
-Esta es una práctica introductoria donde se han realizado las siguientes tareas
+# GitHub Campus Expert
+En esta práctica se realizarán varias tareas con el objetivo de mejorar las competencias transversales y establecer el flujo de trabajo habitual en la asignatura.
 
-### 1. Aceptar la asignación de la práctica
+## Aceptación de la tarea en GitHub Classroom
+
+Para comenzar con la práctica es necesaria la aceptación de la tarea en GitHub Classroom. Para ello es necesaria la previa creación de un equipo individual.
+
+Una vez aceptada la práctica, se genera un repositorio, a partir de la plantilla establecida, en el que podemos comenzar a realizar las tareas solicitadas.
+
+
+### 1. Rellenar el cuestionario GitHub-Alu
 ![img1]
-Se acepta la asignación de la práctica
+La primera tarea en la práctica ha sido rellenar el cuestionario GitHub-Alu utilizado para indicar nuestra cuenta de GitHub.
+
+### 2. Darse de alta en la comunidad ULL-MII-SYTWS-2425
+La siguiente tarea consiste en darse de alta en una comunidad de Google. Sin embargo, el link proporcionado no muestra la comunidad.
 
 ### 2. Creación del project board automated kanban
 Una vez se crea el repositorio automáticamente
