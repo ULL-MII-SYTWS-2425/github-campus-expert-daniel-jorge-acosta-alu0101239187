@@ -3,39 +3,26 @@
 En esta práctica se realizarán varias tareas con el objetivo de mejorar las competencias transversales y establecer el flujo de trabajo habitual en la asignatura.
 
 ## Aceptación de la tarea en GitHub Classroom
-
 Para comenzar con la práctica es necesaria la aceptación de la tarea en GitHub Classroom. Para ello es necesaria la previa creación de un equipo individual.
 
+Una vez aceptada la práctica, se genera un repositorio, a partir de la plantilla establecida, en el que podemos comenzar a realizar las tareas solicitadas.
 ![img1]
 
-Una vez aceptada la práctica, se genera un repositorio, a partir de la plantilla establecida, en el que podemos comenzar a realizar las tareas solicitadas.
-
+## Tareas
 
 ### 1. Rellenar el cuestionario GitHub-Alu
-![img1]
 La primera tarea en la práctica ha sido rellenar el cuestionario GitHub-Alu utilizado para indicar nuestra cuenta de GitHub.
 
 ### 2. Darse de alta en la comunidad ULL-MII-SYTWS-2425
-La siguiente tarea consiste en darse de alta en una comunidad de Google. Sin embargo, el link proporcionado no muestra la comunidad.
+La siguiente tarea consiste en darse de alta en una comunidad de Google. Sin embargo, el link proporcionado no muestra la comunidad, llevando a la página de _Inicio_ en su lugar.
 
-### 2. Creación del project board automated kanban
-Una vez se crea el repositorio automáticamente
-![img2]
-
-Se crea un project board con la configuración indicada
+### 3. Creación del project board kanban
+Se procede a la creación de una project board kanban asociada al repositorio, añadiendo los requisitos de la práctica a la misma.
 ![img3]
 ![img5]
 
-Y se puede trabajar con el mismo añadiendo los requisitos de la práctica
-![img6]
-
-### 3. Solicitar el Student developer pack
-Se solicita el Student developer pack tal y como se ve en la imagen.
-![img7]
-
-En este caso, este paso ya se había realizado antes de cursar esta asignatura, por lo que no se dispone de más imágenes del proceso.
-
-Una vez se tramita la solicitud, ya tendríamos acceso a los planes ofrecidos
+### 3. Solicitar el Student Developer Pack
+Esta tarea consiste en solicitar el Student Developer Pack, sin embargo, esta solicitud había sido tramitada antes de comenzar la asignatura, por lo que ya se disponde de ella.
 ![img8]
 
 ### 4. Solicitar una GitHub Intership
