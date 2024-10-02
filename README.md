@@ -6,7 +6,7 @@ En esta práctica se realizarán varias tareas con el objetivo de mejorar las co
 
 Para comenzar con la práctica es necesaria la aceptación de la tarea en GitHub Classroom. Para ello es necesaria la previa creación de un equipo individual.
 
-![/images/image.png]
+![img1]
 
 Una vez aceptada la práctica, se genera un repositorio, a partir de la plantilla establecida, en el que podemos comenzar a realizar las tareas solicitadas.
 
@@ -48,7 +48,7 @@ En este caso, si acudimos a solicitarla, no hay niguna convocatoria abierta en e
 Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
 
 
-[img1]: /images/intro1.png
+[img1]: /images/image.png
 [img2]: /images/board1.png
 [img3]: /images/board2.png
 [img4]: /images/board3.png
