@@ -6,7 +6,7 @@ En esta práctica se realizarán varias tareas con el objetivo de mejorar las co
 
 Para comenzar con la práctica es necesaria la aceptación de la tarea en GitHub Classroom. Para ello es necesaria la previa creación de un equipo individual.
 
-![image]
+![/images/image.png]
 
 Una vez aceptada la práctica, se genera un repositorio, a partir de la plantilla establecida, en el que podemos comenzar a realizar las tareas solicitadas.
 
